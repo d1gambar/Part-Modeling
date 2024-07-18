@@ -87,3 +87,21 @@
 <img src="Images/spCER.png">
 
 <img src="Images/VALVE.png">
+
+<img src="Images/main support.png">
+
+<img src="Images/bearing block.png">
+
+<img src="Images/bearing block lifter.png">
+
+<img src="Images/main roller.png">
+
+<img src="Images/shaft roller.png">
+
+<img src="Images/threded stud.png">
+
+<img src="Images/handle.png">
+
+<img src="Images/handle for lifting plate.png">
+
+<img src="Images/spur gear.png">
